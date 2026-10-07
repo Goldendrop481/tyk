@@ -18,3 +18,4 @@ djupt
 där
 inne
 hittade
+dom
