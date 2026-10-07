@@ -21,3 +21,4 @@ hittade
 dom
 en
 skatt
+och
