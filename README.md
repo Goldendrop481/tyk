@@ -19,3 +19,4 @@ där
 inne
 hittade
 dom
+en
