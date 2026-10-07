@@ -20,3 +20,4 @@ inne
 hittade
 dom
 en
+skatt
