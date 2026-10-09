@@ -27,4 +27,5 @@ katt.
 Lyckliga
 var
 dom
-båda
+båda.
+Stryk
