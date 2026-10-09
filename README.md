@@ -27,3 +27,4 @@ katt.
 Lyckliga
 var
 dom
+båda
