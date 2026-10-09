@@ -29,3 +29,4 @@ var
 dom
 båda.
 Stryk
+hade
