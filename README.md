@@ -30,3 +30,4 @@ dom
 båda.
 Stryk
 hade
+alltid
