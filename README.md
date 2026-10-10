@@ -38,3 +38,4 @@ hitta
 en
 skatt
 och
+Tyk
