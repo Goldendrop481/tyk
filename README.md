@@ -40,3 +40,4 @@ skatt
 och
 Tyk
 att
+ha
