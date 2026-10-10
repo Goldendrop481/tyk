@@ -32,3 +32,4 @@ Stryk
 hade
 alltid
 drömt
+om
